@@ -28,4 +28,4 @@ while 1:
     except StopIteration as e:
         print('Generator return value:', e.value)
         break
-
+print('在？能不能贴下练习答案？')
